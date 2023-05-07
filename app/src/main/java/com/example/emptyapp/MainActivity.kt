@@ -1,4 +1,4 @@
-package com.example.lab_gradle
+package com.example.emptyapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
